@@ -334,10 +334,24 @@
             {
                 "id": "a86eb92b-f72f-412e-8d21-94962deee120",
                 "type": {
-                    "id": 1,
-                    "value": "Url"
+                    "id": 7,
+                    "value": "Wildcard"
                 },
-                "endpoint": "admin.connect.coca-cola.com",
+                "endpoint": "*.crewconnect.coca-cola.com",
+                "tier": {
+                    "id": 5,
+                    "value": "Out Of Scope"
+                },
+                "description": null,
+                "requiredSkills": []
+            },
+            {
+                "id": "724d7b05-bee0-4ed0-b6e6-7bf46e48f9a8",
+                "type": {
+                    "id": 7,
+                    "value": "Wildcard"
+                },
+                "endpoint": "*.connect.coca-cola.com",
                 "tier": {
                     "id": 5,
                     "value": "Out Of Scope"
