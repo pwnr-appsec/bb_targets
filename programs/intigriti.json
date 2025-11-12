@@ -29203,52 +29203,6 @@
         ]
     },
     {
-        "id": "e56d6838-a1da-46d4-9d89-8154e017ae89",
-        "handle": "fastlane",
-        "name": "Submit your research - Fast lane",
-        "following": false,
-        "minBounty": {
-            "value": 0.0,
-            "currency": "EUR"
-        },
-        "maxBounty": {
-            "value": 0.0,
-            "currency": "EUR"
-        },
-        "confidentialityLevel": {
-            "id": 4,
-            "value": "Public"
-        },
-        "status": {
-            "id": 4,
-            "value": "Suspended"
-        },
-        "type": {
-            "id": 1,
-            "value": "Bug Bounty"
-        },
-        "webLinks": {
-            "detail": "https://app.intigriti.com/auth/dashboard?redirect=/programs/intigriti/fastlane/detail"
-        },
-        "industry": null,
-        "domains": [
-            {
-                "id": "52657d8b-0519-4ea8-bcf3-5487c222d540",
-                "type": {
-                    "id": 6,
-                    "value": "Other"
-                },
-                "endpoint": "Research",
-                "tier": {
-                    "id": 4,
-                    "value": "Tier 1"
-                },
-                "description": null,
-                "requiredSkills": []
-            }
-        ]
-    },
-    {
         "id": "e59246b5-c4a5-4d3f-aac6-d386ecfa0e23",
         "handle": "kbc-responsibledisclosure",
         "name": "KBC - Responsible Disclosure",
