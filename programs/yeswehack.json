@@ -20,7 +20,7 @@
         "vdp": false,
         "archived": false,
         "reports_count": 776,
-        "bounty_reward_min": 40,
+        "bounty_reward_min": 50,
         "bounty_reward_max": 2000,
         "scopes_count": 12,
         "pentest_campaign_status": null,
@@ -48,7 +48,7 @@
         },
         "hunter_audience": null,
         "scopes_enabled": null,
-        "last_update_at": "2025-11-13T17:27:28+01:00",
+        "last_update_at": "2025-11-13T17:56:29+01:00",
         "scopes": [
             {
                 "scope": "api.swapcard.com",
@@ -1304,7 +1304,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 2497,
+        "reports_count": 2498,
         "bounty_reward_min": null,
         "bounty_reward_max": null,
         "scopes_count": 1,
