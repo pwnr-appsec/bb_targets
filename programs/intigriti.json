@@ -13630,8 +13630,8 @@
             "value": "Registered"
         },
         "status": {
-            "id": 4,
-            "value": "Suspended"
+            "id": 3,
+            "value": "Open"
         },
         "type": {
             "id": 1,
@@ -21506,8 +21506,8 @@
             "currency": "EUR"
         },
         "confidentialityLevel": {
-            "id": 3,
-            "value": "Registered"
+            "id": 4,
+            "value": "Public"
         },
         "status": {
             "id": 3,
