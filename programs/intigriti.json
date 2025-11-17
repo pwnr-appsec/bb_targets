@@ -7495,6 +7495,20 @@
         "industry": "Hospitals & Healthcare",
         "domains": [
             {
+                "id": "2cb13ddd-b63f-4c7a-82a2-83a244949df2",
+                "type": {
+                    "id": 1,
+                    "value": "Url"
+                },
+                "endpoint": "preview.redcap.gbiomed.kuleuven.be",
+                "tier": {
+                    "id": 5,
+                    "value": "Out Of Scope"
+                },
+                "description": null,
+                "requiredSkills": []
+            },
+            {
                 "id": "b070af79-3cd3-4a18-a1a8-cdc959cb230d",
                 "type": {
                     "id": 1,
@@ -7659,7 +7673,7 @@
                     "id": 3,
                     "value": "Tier 2"
                 },
-                "description": "These are the ip's used by our reverse proxy.\nThe Host header will determine the bounty tier.\nIf a report is submitted where the Host header is not used we will default to Tier 2. ",
+                "description": "These are the ip's used by our reverse proxy.\nThe Host header will determine the bounty tier.\nIf a report is submitted where the Host header is not used we will default to Tier 2.",
                 "requiredSkills": []
             },
             {
