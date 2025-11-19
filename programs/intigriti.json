@@ -32187,8 +32187,8 @@
             "value": "Public"
         },
         "status": {
-            "id": 4,
-            "value": "Suspended"
+            "id": 3,
+            "value": "Open"
         },
         "type": {
             "id": 1,
@@ -36159,6 +36159,20 @@
         },
         "industry": "Construction",
         "domains": [
+            {
+                "id": "5a74d7bb-059f-4884-b210-c575a5391b15",
+                "type": {
+                    "id": 1,
+                    "value": "Url"
+                },
+                "endpoint": "https://invado.pl",
+                "tier": {
+                    "id": 1,
+                    "value": "No Bounty"
+                },
+                "description": "Homepage of a subsidiary",
+                "requiredSkills": []
+            },
             {
                 "id": "1a7cb1e4-8eb5-43a8-b85f-ed176b80c31a",
                 "type": {
