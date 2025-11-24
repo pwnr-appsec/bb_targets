@@ -1,5 +1,114 @@
 [
     {
+        "title": "Jenkins Bug Bounty Program",
+        "slug": "jenkins-bug-bounty-program",
+        "country": "BE",
+        "activity_area": "Tech - Other",
+        "average_first_response_time": 0,
+        "type": "bug-bounty",
+        "status": "V",
+        "demo": false,
+        "public": true,
+        "bounty": true,
+        "gift": false,
+        "hall_of_fame": true,
+        "hacktivity": false,
+        "report_collaboration_active": true,
+        "pid": null,
+        "secured": false,
+        "disabled": false,
+        "vdp": false,
+        "archived": false,
+        "reports_count": 0,
+        "bounty_reward_min": 100,
+        "bounty_reward_max": 5000,
+        "scopes_count": 8,
+        "pentest_campaign_status": null,
+        "thumbnail": {
+            "name": "238c2751-8c85-4ff6-9c99-cca35384b299",
+            "original_name": "jenkins logo.jpg",
+            "mime_type": "image/jpeg",
+            "size": 9811,
+            "url": "https://cdn-yeswehack.com/program/thumbnail/238c2751-8c85-4ff6-9c99-cca35384b299"
+        },
+        "event": null,
+        "business_unit": {
+            "name": "Jenkins",
+            "slug": "jenkins",
+            "description": "The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.",
+            "currency": "EUR",
+            "already_activate_product": true,
+            "logo": {
+                "name": "175107e5-fc97-4b38-b1f4-1ee9b9d2123d",
+                "original_name": "jenkins logo.jpg",
+                "mime_type": "image/jpeg",
+                "size": 9811,
+                "url": "https://cdn-yeswehack.com/business-unit/logo/175107e5-fc97-4b38-b1f4-1ee9b9d2123d"
+            }
+        },
+        "hunter_audience": null,
+        "scopes_enabled": null,
+        "last_update_at": "2025-11-24T09:28:24+01:00",
+        "scopes": [
+            {
+                "scope": "https://github.com/jenkinsci/jenkins",
+                "scope_type": "open-source",
+                "scope_type_name": "Open Source",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://github.com/jenkinsci/stapler",
+                "scope_type": "open-source",
+                "scope_type_name": "Open Source",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://github.com/jenkinsci/jelly",
+                "scope_type": "open-source",
+                "scope_type_name": "Open Source",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://github.com/jenkinsci/winstone",
+                "scope_type": "open-source",
+                "scope_type_name": "Open Source",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://github.com/jenkinsci/script-security-plugin",
+                "scope_type": "open-source",
+                "scope_type_name": "Open Source",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://github.com/jenkinsci/credentials-plugin",
+                "scope_type": "open-source",
+                "scope_type_name": "Open Source",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://github.com/jenkinsci/credentials-binding-plugin",
+                "scope_type": "open-source",
+                "scope_type_name": "Open Source",
+                "asset_value": "HIGH",
+                "report_count": null
+            },
+            {
+                "scope": "https://github.com/jenkinsci/workflow-cps-plugin",
+                "scope_type": "open-source",
+                "scope_type_name": "Open Source",
+                "asset_value": "HIGH",
+                "report_count": null
+            }
+        ]
+    },
+    {
         "title": "Louis Vuitton Malletier - Public Bug Bounty Program",
         "slug": "louis-vuitton-malletier-public-bug-bounty-program",
         "country": "FR",
@@ -1463,7 +1572,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 1756,
+        "reports_count": 1759,
         "bounty_reward_min": 5,
         "bounty_reward_max": 1500,
         "scopes_count": 40,
