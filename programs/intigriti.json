@@ -15175,8 +15175,8 @@
             "value": "Public"
         },
         "status": {
-            "id": 4,
-            "value": "Suspended"
+            "id": 3,
+            "value": "Open"
         },
         "type": {
             "id": 1,
@@ -35995,20 +35995,6 @@
                     "value": "Url"
                 },
                 "endpoint": "https://joro.de",
-                "tier": {
-                    "id": 1,
-                    "value": "No Bounty"
-                },
-                "description": "Homepage of a subsidiary",
-                "requiredSkills": []
-            },
-            {
-                "id": "f921c986-c477-4b10-ae90-792785270a4e",
-                "type": {
-                    "id": 1,
-                    "value": "Url"
-                },
-                "endpoint": "https://arbonia-doors.ch",
                 "tier": {
                     "id": 1,
                     "value": "No Bounty"
