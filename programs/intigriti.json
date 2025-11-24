@@ -29862,6 +29862,52 @@
         ]
     },
     {
+        "id": "d489d81f-6b42-4ef1-b7f8-f16d9b404621",
+        "handle": "nexuzhealthvdp",
+        "name": "Nexuzhealth VDP",
+        "following": false,
+        "minBounty": {
+            "value": 0.0,
+            "currency": "EUR"
+        },
+        "maxBounty": {
+            "value": 0.0,
+            "currency": "EUR"
+        },
+        "confidentialityLevel": {
+            "id": 4,
+            "value": "Public"
+        },
+        "status": {
+            "id": 4,
+            "value": "Suspended"
+        },
+        "type": {
+            "id": 1,
+            "value": "Bug Bounty"
+        },
+        "webLinks": {
+            "detail": "https://app.intigriti.com/auth/dashboard?redirect=/programs/nexuzhealth/nexuzhealthvdp/detail"
+        },
+        "industry": "Hospitals & Healthcare",
+        "domains": [
+            {
+                "id": "6581b521-ba5c-4bec-afe5-9254f8d66d86",
+                "type": {
+                    "id": 1,
+                    "value": "Url"
+                },
+                "endpoint": "All assets related to nexuzhealth ",
+                "tier": {
+                    "id": 1,
+                    "value": "No Bounty"
+                },
+                "description": null,
+                "requiredSkills": []
+            }
+        ]
+    },
+    {
         "id": "d5c4e966-a80a-44f5-91c9-2bb9487b8762",
         "handle": "eurid",
         "name": "EURid",
