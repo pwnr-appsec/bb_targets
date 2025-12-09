@@ -9341,8 +9341,8 @@
             "value": "Registered"
         },
         "status": {
-            "id": 4,
-            "value": "Suspended"
+            "id": 3,
+            "value": "Open"
         },
         "type": {
             "id": 1,
@@ -15878,10 +15878,10 @@
             {
                 "id": "e892c9e9-9d1e-4658-8ee3-4777295df1be",
                 "type": {
-                    "id": 1,
-                    "value": "Url"
+                    "id": 7,
+                    "value": "Wildcard"
                 },
-                "endpoint": "api.intercom.io",
+                "endpoint": "*.intercom.io",
                 "tier": {
                     "id": 5,
                     "value": "Out Of Scope"
@@ -19502,12 +19502,12 @@
                 "requiredSkills": []
             },
             {
-                "id": "ac58ed27-fe1d-421e-acd9-0c9cd6ebdb23",
+                "id": "c04d9570-9b3d-4e15-982a-e3a1eca09f65",
                 "type": {
                     "id": 1,
                     "value": "Url"
                 },
-                "endpoint": "www.colruytgroup.com",
+                "endpoint": "colruytgroup.com",
                 "tier": {
                     "id": 3,
                     "value": "Tier 2"
@@ -24920,8 +24920,8 @@
             "value": "Public"
         },
         "status": {
-            "id": 3,
-            "value": "Open"
+            "id": 4,
+            "value": "Suspended"
         },
         "type": {
             "id": 1,
