@@ -446,7 +446,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 2743,
+        "reports_count": 2744,
         "bounty_reward_min": null,
         "bounty_reward_max": null,
         "scopes_count": 1,
@@ -1318,7 +1318,7 @@
         "disabled": false,
         "vdp": false,
         "archived": false,
-        "reports_count": 41,
+        "reports_count": 42,
         "bounty_reward_min": 50,
         "bounty_reward_max": 10000,
         "scopes_count": 25,
@@ -7899,13 +7899,6 @@
             },
             {
                 "scope": "systemd-logind",
-                "scope_type": "open-source",
-                "scope_type_name": "Open Source",
-                "asset_value": "HIGH",
-                "report_count": null
-            },
-            {
-                "scope": "systemd-networkd",
                 "scope_type": "open-source",
                 "scope_type_name": "Open Source",
                 "asset_value": "HIGH",
