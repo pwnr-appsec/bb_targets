@@ -18099,8 +18099,8 @@
             "value": "Registered"
         },
         "status": {
-            "id": 3,
-            "value": "Open"
+            "id": 4,
+            "value": "Suspended"
         },
         "type": {
             "id": 1,
@@ -32488,6 +32488,52 @@
                 "tier": {
                     "id": 5,
                     "value": "Out Of Scope"
+                },
+                "description": null,
+                "requiredSkills": []
+            }
+        ]
+    },
+    {
+        "id": "e2a235f3-6a95-4134-a165-aa48e9632f47",
+        "handle": "anacondavdp",
+        "name": "Anaconda Vulnerability Disclosure Program",
+        "following": false,
+        "minBounty": {
+            "value": 0.0,
+            "currency": "USD"
+        },
+        "maxBounty": {
+            "value": 0.0,
+            "currency": "USD"
+        },
+        "confidentialityLevel": {
+            "id": 4,
+            "value": "Public"
+        },
+        "status": {
+            "id": 3,
+            "value": "Open"
+        },
+        "type": {
+            "id": 1,
+            "value": "Bug Bounty"
+        },
+        "webLinks": {
+            "detail": "https://app.intigriti.com/auth/dashboard?redirect=/programs/anacondainc/anacondavdp/detail"
+        },
+        "industry": "Software",
+        "domains": [
+            {
+                "id": "6ef593d0-a5c0-40ca-b3e9-24ccf81b9e69",
+                "type": {
+                    "id": 1,
+                    "value": "Url"
+                },
+                "endpoint": "anaconda.com",
+                "tier": {
+                    "id": 1,
+                    "value": "No Bounty"
                 },
                 "description": null,
                 "requiredSkills": []
