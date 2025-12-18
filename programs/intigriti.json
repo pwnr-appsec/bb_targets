@@ -22247,6 +22247,80 @@
         ]
     },
     {
+        "id": "a1f02fde-436d-46ba-bf94-25222caa8342",
+        "handle": "colruytgroupvip",
+        "name": "Colruyt Group Registered",
+        "following": false,
+        "minBounty": {
+            "value": 50.0,
+            "currency": "EUR"
+        },
+        "maxBounty": {
+            "value": 3500.0,
+            "currency": "EUR"
+        },
+        "confidentialityLevel": {
+            "id": 3,
+            "value": "Registered"
+        },
+        "status": {
+            "id": 3,
+            "value": "Open"
+        },
+        "type": {
+            "id": 1,
+            "value": "Bug Bounty"
+        },
+        "webLinks": {
+            "detail": "https://app.intigriti.com/auth/dashboard?redirect=/programs/colruyt/colruytgroupvip/detail"
+        },
+        "industry": "Retail",
+        "domains": [
+            {
+                "id": "78c01675-d665-4031-a60f-a07da836d554",
+                "type": {
+                    "id": 1,
+                    "value": "Url"
+                },
+                "endpoint": "collectandgo.be",
+                "tier": {
+                    "id": 3,
+                    "value": "Tier 2"
+                },
+                "description": "Collect & Go makes shopping easy. Colruyt Group's online grocery service distinguishes itself with its reliability, quality fresh products and friendly staff. Customers can choose on the website from the range of Colruyt and Bio-Planet products. The groceries they reserve for midnight will be prepared and delivered to the pick-up point and at the time of their choice. Collect & Go customers who choose from the Colruyt range are always sure of the lowest price online.",
+                "requiredSkills": []
+            },
+            {
+                "id": "ba251168-dbf2-4c4b-afa3-6c43347696c3",
+                "type": {
+                    "id": 1,
+                    "value": "Url"
+                },
+                "endpoint": "jobs.colruytgroup.com",
+                "tier": {
+                    "id": 3,
+                    "value": "Tier 2"
+                },
+                "description": "At Colruyt Group, we work on our mission every day: creating sustainable added value together. And we do it just that little bit differently. You notice how different working at Colruyt Group feels every day in your job. Whatever it is, wherever you start working for us.",
+                "requiredSkills": []
+            },
+            {
+                "id": "2439cec8-b24f-498a-b141-d8c0cfad7d52",
+                "type": {
+                    "id": 6,
+                    "value": "Other"
+                },
+                "endpoint": "Leaked credentials from open data sources/archives (intelx.io, pastebin...)",
+                "tier": {
+                    "id": 3,
+                    "value": "Tier 2"
+                },
+                "description": "At Colruyt Group, we like to be aware of possible leaked credentials. If you find possible credentials on open data sources such as Intelx.io, Pastebin, etc. we will reward you with reputation points. If credentials are leaked on Colruyt Group owned assets, we will handle it with a corresponding bounty.",
+                "requiredSkills": []
+            }
+        ]
+    },
+    {
         "id": "a4ade6d3-ca83-4bb1-8acc-1977945782eb",
         "handle": "toogoodtogo",
         "name": "Too Good To Go - Marketplace",
