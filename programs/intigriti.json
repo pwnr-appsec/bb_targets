@@ -8993,8 +8993,8 @@
             "value": "Public"
         },
         "status": {
-            "id": 3,
-            "value": "Open"
+            "id": 4,
+            "value": "Suspended"
         },
         "type": {
             "id": 1,
@@ -24959,6 +24959,20 @@
         },
         "industry": "Education",
         "domains": [
+            {
+                "id": "20445a5c-aaee-46fa-906d-21addeafc889",
+                "type": {
+                    "id": 1,
+                    "value": "Url"
+                },
+                "endpoint": "profiles-api.datacamp.com",
+                "tier": {
+                    "id": 3,
+                    "value": "Tier 2"
+                },
+                "description": null,
+                "requiredSkills": []
+            },
             {
                 "id": "ee9f0182-d2cb-42a8-aa6c-607eeebc4a96",
                 "type": {
