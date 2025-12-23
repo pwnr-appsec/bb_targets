@@ -25083,7 +25083,12 @@
                     "value": "Tier 2"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "mobile_hacking",
+                        "name": "Mobile Hacking"
+                    }
+                ]
             },
             {
                 "id": "160b498f-b3f8-40ea-91d4-49fe241852fc",
@@ -25097,7 +25102,12 @@
                     "value": "Tier 2"
                 },
                 "description": null,
-                "requiredSkills": []
+                "requiredSkills": [
+                    {
+                        "id": "mobile_hacking",
+                        "name": "Mobile Hacking"
+                    }
+                ]
             },
             {
                 "id": "557938a2-93c2-4959-9cdb-3c34263c0c94",
